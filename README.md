@@ -27,5 +27,5 @@ Each project includes full source code, explanations, and example outputs so you
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/api-universe-showcase.git
+   git clone https://github.com/brianmahove/api-universe-showcase.git
    cd api-universe-showcase
